@@ -2,8 +2,7 @@
 var typed = new Typed('.typed', {
   strings: [
   'Web Design and developer',
-  'On and off page SEO',
-  'WordPress developer',
+  'WordPress Customize and develop',
   'PHP & Laravel developer'
   ],
        loop: true,
